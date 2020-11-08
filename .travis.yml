@@ -9,3 +9,4 @@ script:
     - docker run -e CI=true jimandrews/docker-react npm run test
 
 language: generic
+
