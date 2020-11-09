@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bending the Arc! 
+          Feature branch of Bending the Arc with Dr. Paul Farmer! 
         </p>
         <a
           className="App-link"
